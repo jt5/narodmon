@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For GSM Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GSM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Init	KEYWORD2
+NewSMSindic	KEYWORD2
+WaitCall	KEYWORD2
+WaitSMS	KEYWORD2
+TerminateCall	KEYWORD2
+SendSMS	KEYWORD2
+CheckStatus	KEYWORD2
+ReadSMS	KEYWORD2
+CheckSMS	KEYWORD2
+DeleteAllSMS	KEYWORD2
+GetIMEI	KEYWORD2
+PowerOFF	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
