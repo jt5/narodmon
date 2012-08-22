@@ -5,6 +5,7 @@ Created:	19.03.2012
 Updated:	21.08.2012
 Programmer:	Erezeev A.
 Production:	JT5.RU
+Source:		https://github.com/jt5/GSM
 
 This library is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

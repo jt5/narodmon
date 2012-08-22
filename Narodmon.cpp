@@ -4,6 +4,7 @@ Version:	0.1
 Created:	17.08.2012
 Programmer:	Erezeev A.
 Production:	JT5.RU
+Source:		https://github.com/jt5/narodmon
 
 This library is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
