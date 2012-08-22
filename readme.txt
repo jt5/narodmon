@@ -15,4 +15,4 @@ Required:
 - Плата Arduino (Uno, Duemilanove, Cosmo Black Star и другие совместимые аналоги с Atmega328).
 - Шилд "Cosmo GSM Connect".
 
-https://github.com/jt5/Arduino/tree/master/GSM
+https://github.com/jt5/GSM
