@@ -3,6 +3,7 @@
 Используется плата Ардуино, шилд «Cosmo GSM Connect» и температурный датчик - DS18B20 или DS18S20
 К устройству можно подключить до 4-х температурных датчиков.
 Для подключения большего кол-ва датчиков необходимо внести изменения в данный скетч.
+Описание http://jt5.ru/examples/gprs-narodmon/
 */
 
 #include <Narodmon.h>
@@ -27,8 +28,8 @@ const char LOGIN[] PROGMEM =  "beeline";
 char IMEI[16];
 
 unsigned int minutes = 0;
-unsigned char SendIntervalInMinutes = 5; //Интервал отправки данных в минутах
-unsigned char GSM_TASK_flag; //Флаг для активации отправки
+unsigned char SendIntervalInMinutes = 5; // Интервал сна устройства, в минутах.
+unsigned char GSM_TASK_flag; // Флаг для активации отправки
 
 volatile unsigned char WDT_wake;
 volatile unsigned char SleepTimeInSec = 60;

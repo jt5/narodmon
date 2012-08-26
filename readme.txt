@@ -9,4 +9,4 @@ https://github.com/jt5/narodmon
 3) Откройте директорию, в которой установлена Arduino IDE. Найдите папку «libraries» и скопируйте в нее архив «GSM».
 4) Запустите среду программирования Arduino IDE. Перейдите на вкладку «Файл» -> «Примеры» -> «GSM» и выберите, например, скетч «NarodmonTemperature».
 
-Подробная инструкция по работе с библиотекой - https://github.com/jt5/narodmon
+Подробная инструкция по работе с библиотекой - http://jt5.ru/examples/gprs-narodmon/
